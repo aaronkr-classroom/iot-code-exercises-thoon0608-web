@@ -12,10 +12,21 @@ sensors = {
     }
 }
 
-slide 33 - 2, 3, 4 코드 작성 thonny
+slide 33 - 2, 3, 4 코드 작성 thonny<br>
 2번
 
-<img width="802" height="702" alt="image" src="https://github.com/user-attachments/assets/40f176d4-b865-45ce-93ce-d081d9697746" />
+<img width="802" height="702" alt="image" src="https://github.com/user-attachments/assets/979ab63c-2f09-477d-bf3d-73fa464bd686" /><br>
+
+
+3번<br>
+
+<img width="802" height="702" alt="image" src="https://github.com/user-attachments/assets/03ac3078-21fb-4a92-90eb-74fab3363aca" /><br>
+
+4번<br>
+
+<img width="802" height="702" alt="image" src="https://github.com/user-attachments/assets/47a0dd89-7de7-4df3-bd38-d1f71ef17dd8" />
+
+
 
 
 
