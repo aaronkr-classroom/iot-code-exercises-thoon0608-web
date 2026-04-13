@@ -1,4 +1,4 @@
-# 테스트를 위해 임의의 month와 day를 지정합니다.
+
 month = input("월을 입력하세요 : ")
 day = input("일을 입력하세요 : ")
 
