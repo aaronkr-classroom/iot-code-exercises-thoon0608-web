@@ -51,7 +51,7 @@ class SayDays:
     # 요일 한글 출력
     def week_name(self):
         names = ["토", "일", "월", "화", "수", "목", "금"]
-        return names[self.weekday()]
+        return names[self.week()]
 
 
 # -------------------------------
